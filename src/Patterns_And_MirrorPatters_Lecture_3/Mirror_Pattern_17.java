@@ -28,7 +28,7 @@ public class Mirror_Pattern_17 {
                 System.out.print("* ");
                 initialstars2++;
             }
-            if (rowTracker <= rows / 2) {
+            if (rowTracker < rows / 2 + 1) {
                 stars--;
                 spaces += 2;
             } else {
