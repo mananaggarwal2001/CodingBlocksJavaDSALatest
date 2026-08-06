@@ -9,7 +9,7 @@ public class Pattern_Rhombus {
         int rowTracker = 1;
         int spaces = rows - 1;
         int stars = 1;
-        int number = 1;
+        int number;
         while (rowTracker <= 2 * rows - 1) {
             int spaceTracker = 1;
             while (spaceTracker <= spaces) {
