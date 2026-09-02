@@ -9,6 +9,7 @@ public class Partition_Array_Into_Disjoint_Intervals {
         System.out.println(result);
     }
 
+    // this is the very good question and must be reviewed for further revision.
     public static int partitionDisjoint(int[] nums) {
         int[] maxLeft = new int[nums.length];
         int[] minRight = new int[nums.length];
