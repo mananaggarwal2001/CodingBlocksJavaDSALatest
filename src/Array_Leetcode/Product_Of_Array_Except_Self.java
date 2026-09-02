@@ -24,6 +24,8 @@ public class Product_Of_Array_Except_Self {
         for (int i = 0; i < finalArray.length; i++) {
             finalArray[i] = left[i] * right[i];
         }
-        return finalArray;
+        return finalArray; // this will return the final array which is formed.
     }
+    // leetcode questions
+    // Questions 724, 1991, 915
 }
