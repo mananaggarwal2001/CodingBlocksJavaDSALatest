@@ -23,6 +23,9 @@ public class Find_Pivot_Index {
                 return i;
             }
         }
+        // gas station and majority element.
+        // best time to buy and sell stocks.
+        // this is the final question for doing the work.
         return -1;
     }
 }
