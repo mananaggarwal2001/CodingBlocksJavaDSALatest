@@ -1,7 +1,5 @@
 package Array_Leetcode;
 
-import java.util.Arrays;
-
 public class Find_Pivot_Index {
     static void main() {
         int[] nums = {0,0};
