@@ -14,6 +14,7 @@ public class SortColorDNF {
     static void sort(int[] arr) {
         int ithPointer = 0;
         int zero = 0;
+        // this is the number of computer science and the number of things which we deal for doing the work done.
         int two = arr.length - 1;
         while (ithPointer <= two) {
             if (arr[ithPointer] == 0) {
