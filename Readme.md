@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 90 programs across 17 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 94 programs across 18 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -21,6 +21,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 15. [2D Arrays](#2d-arrays) (4)
 16. [2D Arrays 2](#2d-arrays-2) (3)
 17. [Strings](#strings) (8)
+18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (4)
 
 ## Course Questions Sequence Wise
 
@@ -164,3 +165,10 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 88. [Check Palindrome](src/Strings/Check_Palindrome.java)
 89. [Lexicographical Order](src/Strings/Lexicographical_Order.java)
 90. [Playing with Good Strings](src/Strings/Playing_With_Good_Strings.java)
+
+### String Questions and StringBuilder
+
+91. [String to Number](src/Strings_Quesntions_and_StringBuilder/String_to_Number.java)
+92. [Print Substrings Lengthwise](src/Strings_Quesntions_and_StringBuilder/Print_The_subString_Lengthwise.java)
+93. [Find CB Numbers](src/Strings_Quesntions_and_StringBuilder/Find_CB_Numbers.java)
+94. [Reverse Words in a String](src/Strings_Quesntions_and_StringBuilder/Reverse_Words_in_Strings.java)
