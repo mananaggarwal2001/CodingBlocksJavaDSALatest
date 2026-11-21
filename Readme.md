@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 121 programs across 21 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 123 programs across 21 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -24,7 +24,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (6)
 19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
-21. [Recursion 1](#recursion-1) (19)
+21. [Recursion 1](#recursion-1) (21)
 
 ## Course Questions Sequence Wise
 
@@ -214,3 +214,5 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 119. [Reverse a Number](src/Recursion_1/QuestionsSingleRecursion/Q8_Reverse_A_Number.java)
 120. [Check Palindrome Number](src/Recursion_1/QuestionsSingleRecursion/Q9_Check_Pallindrome_Number.java)
 121. [Power (a^b)](src/Recursion_1/QuestionsSingleRecursion/Q10_Power_a_b.java)
+122. [Maximum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q11_Maximum_Element_In_Array.java)
+123. [Minimum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q12_Minimum_Element_In_Array.java)
