@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 94 programs across 18 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 121 programs across 21 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -21,7 +21,10 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 15. [2D Arrays](#2d-arrays) (4)
 16. [2D Arrays 2](#2d-arrays-2) (3)
 17. [Strings](#strings) (8)
-18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (4)
+18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (6)
+19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
+20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
+21. [Recursion 1](#recursion-1) (19)
 
 ## Course Questions Sequence Wise
 
@@ -172,3 +175,42 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 92. [Print Substrings Lengthwise](src/Strings_Quesntions_and_StringBuilder/Print_The_subString_Lengthwise.java)
 93. [Find CB Numbers](src/Strings_Quesntions_and_StringBuilder/Find_CB_Numbers.java)
 94. [Reverse Words in a String](src/Strings_Quesntions_and_StringBuilder/Reverse_Words_in_Strings.java)
+95. [StringBuilder Demo](src/Strings_Quesntions_and_StringBuilder/StringBuilder_Demo.java)
+96. [StringBuilder Demo 2](src/Strings_Quesntions_and_StringBuilder/String_Builder_Demo_2.java)
+
+### Assignment and LeetCode Doubt Questions
+
+97. [Get Maximum Score (LeetCode)](src/Assignment_And_Leetcode_Doubt_Questions/Get_Max_Score_Leetcode.java)
+98. [Help Ramu](src/Assignment_And_Leetcode_Doubt_Questions/Help_Ramu.java)
+99. [Next Permutation](src/Assignment_And_Leetcode_Doubt_Questions/Next_Permutation.java) (in progress)
+
+### Wrapper Classes and ArrayLists
+
+100. [Wrapper Class Introduction](src/Wrapper_Classes_And_ArrayLists/Wrapper_Class_Introduction.java)
+101. [ArrayList Demo](src/Wrapper_Classes_And_ArrayLists/ArrayList_Demo.java)
+102. [Sum of Two Arrays](src/Wrapper_Classes_And_ArrayLists/Arrays_Sum_Of_Two_Arrays.java)
+
+### Recursion 1
+
+103. [Recursion Introduction (Factorial)](src/Recursion_1/Recursion_Introduction_Factorial.java)
+104. [Sum of N Numbers](src/Recursion_1/Sum_Of_N_Numbers.java)
+105. [Print Decreasing](src/Recursion_1/Print_Dec.java)
+106. [Print Increasing](src/Recursion_1/Print_Increasing.java)
+107. [Power](src/Recursion_1/Power.java)
+108. [Tail Recursive Factorial](src/Recursion_1/Fact_Tail.java)
+109. [Check if Array is Sorted](src/Recursion_1/Array_IsSorted.java)
+110. [First Occurrence of Item in Array](src/Recursion_1/Item_First_Occurrence_In_Array.java)
+111. [Count Vowels](src/Recursion_1/Count_Vowels.java)
+
+#### Assignment: Single Recursion Questions
+
+112. [Print Numbers from 1 to N](src/Recursion_1/QuestionsSingleRecursion/Q1_Print_Numbers_1_N.java)
+113. [Print Numbers from N to 1](src/Recursion_1/QuestionsSingleRecursion/Q2_Print_Numbers_N_1.java)
+114. [Sum of First N Natural Numbers](src/Recursion_1/QuestionsSingleRecursion/Q3_Sum_Of_First_N_Natural_Numbers.java)
+115. [Factorial of N](src/Recursion_1/QuestionsSingleRecursion/Q4_Factorial_Of_N.java)
+116. [Sum of Digits](src/Recursion_1/QuestionsSingleRecursion/Q5_Sum_Of_Digits.java)
+117. [Count Digits](src/Recursion_1/QuestionsSingleRecursion/Q6_Count_Digits.java)
+118. [Product of Digits](src/Recursion_1/QuestionsSingleRecursion/Q7_Products_Of_Digits.java)
+119. [Reverse a Number](src/Recursion_1/QuestionsSingleRecursion/Q8_Reverse_A_Number.java)
+120. [Check Palindrome Number](src/Recursion_1/QuestionsSingleRecursion/Q9_Check_Pallindrome_Number.java)
+121. [Power (a^b)](src/Recursion_1/QuestionsSingleRecursion/Q10_Power_a_b.java)
