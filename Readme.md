@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 141 programs across 21 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 153 programs across 21 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -24,7 +24,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (6)
 19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
-21. [Recursion 1](#recursion-1) (39)
+21. [Recursion 1](#recursion-1) (51)
 
 ## Course Questions Sequence Wise
 
@@ -234,3 +234,15 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 139. [Q28: Decimal to Binary](src/Recursion_1/QuestionsSingleRecursion/Q28_Decimal_To_Binary.java)
 140. [Q29: String Palindrome](src/Recursion_1/QuestionsSingleRecursion/Q29_String_Palindrome.java)
 141. [Q30: Length of a String](src/Recursion_1/QuestionsSingleRecursion/Q30_Length_Of_String.java)
+142. [Q31: Replace Characters](src/Recursion_1/QuestionsSingleRecursion/Q31_Replace_Characters.java)
+143. [Q32: Remove Duplicates](src/Recursion_1/QuestionsSingleRecursion/Q32_Remove_Duplicates.java)
+144. [Q33: Count Words](src/Recursion_1/QuestionsSingleRecursion/Q33_Count_Words.java)
+145. [Q34: Print All Indexes](src/Recursion_1/QuestionsSingleRecursion/Q34_Print_All_Indexes.java)
+146. [Q35: Check Strictly Increasing](src/Recursion_1/QuestionsSingleRecursion/Q35_Check_Strictly_Increasing.java)
+147. [Q36: Print Array in Reverse](src/Recursion_1/QuestionsSingleRecursion/Q36_Print_Array_In_Reverse.java)
+148. [Q37: Smallest Digit](src/Recursion_1/QuestionsSingleRecursion/Q37_Smallest_Digit.java)
+149. [Q38: Largest Digit](src/Recursion_1/QuestionsSingleRecursion/Q38_Largest_Digit.java)
+150. [Q39: Count Consonants](src/Recursion_1/QuestionsSingleRecursion/Q39_Count_Consonants.java)
+151. [Q40: Remove Character x](src/Recursion_1/QuestionsSingleRecursion/Q40_Remove_Character_x.java)
+152. [Q41: Sum of Alternate Digits](src/Recursion_1/QuestionsSingleRecursion/Q41_Sum_Of_Alternate_Digits.java)
+153. [Q42: Check String Contains Only Digits](src/Recursion_1/QuestionsSingleRecursion/Q42_Check_String_Contain_Only_Digits.java)
