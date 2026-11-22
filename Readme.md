@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 123 programs across 21 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 141 programs across 21 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -24,7 +24,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (6)
 19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
-21. [Recursion 1](#recursion-1) (21)
+21. [Recursion 1](#recursion-1) (39)
 
 ## Course Questions Sequence Wise
 
@@ -216,3 +216,21 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 121. [Power (a^b)](src/Recursion_1/QuestionsSingleRecursion/Q10_Power_a_b.java)
 122. [Maximum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q11_Maximum_Element_In_Array.java)
 123. [Minimum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q12_Minimum_Element_In_Array.java)
+124. [Sum of Array Elements](src/Recursion_1/QuestionsSingleRecursion/Q13_Sum_Of_Array_Elements.java)
+125. [Check if Array is Sorted](src/Recursion_1/QuestionsSingleRecursion/Q14_Check_Array_Sorted.java)
+126. [Count Element Occurrences](src/Recursion_1/QuestionsSingleRecursion/Q15_Count_Element_Occurrences.java)
+127. [First Occurrence in Array](src/Recursion_1/QuestionsSingleRecursion/Q16_First_Occurrence_In_Array.java)
+128. [Last Occurrence in Array](src/Recursion_1/QuestionsSingleRecursion/Q17_Last_Occurrence_In_Array.java)
+129. [Print Array Elements](src/Recursion_1/QuestionsSingleRecursion/Q18_Print_Array_Elements.java)
+130. [Count Even Numbers](src/Recursion_1/QuestionsSingleRecursion/Q19_Count_Even_Numbers.java)
+131. [Count Vowels in a String](src/Recursion_1/QuestionsSingleRecursion/Q20_Count_Vowels_In_String.java)
+132. [Check Prime](src/Recursion_1/QuestionsSingleRecursion/Q21_Check_Prime.java)
+133. [GCD of Two Numbers](src/Recursion_1/QuestionsSingleRecursion/Q22_GCD_Of_Two_Numbers.java)
+134. [LCM of Two Numbers](src/Recursion_1/QuestionsSingleRecursion/Q23_LCM_Of_Two_Numbers.java)
+135. [Sum of Even Digits](src/Recursion_1/QuestionsSingleRecursion/Q24_Sum_Of_Even_Digits.java)
+136. [Remove Zeros from a Number](src/Recursion_1/QuestionsSingleRecursion/Q25_Remove_Zeros_From_Number.java)
+137. [Count Zeros in a Number](src/Recursion_1/QuestionsSingleRecursion/Q26_Count_Zeros_In_Number.java)
+138. [Digital Root](src/Recursion_1/QuestionsSingleRecursion/Q27_Digital_Root.java) (in progress)
+139. [Decimal to Binary](src/Recursion_1/QuestionsSingleRecursion/Q28_Decimal_To_Binary.java)
+140. [String Palindrome](src/Recursion_1/QuestionsSingleRecursion/Q29_String_Palindrome.java)
+141. [Length of a String](src/Recursion_1/QuestionsSingleRecursion/Q30_Length_Of_String.java)
