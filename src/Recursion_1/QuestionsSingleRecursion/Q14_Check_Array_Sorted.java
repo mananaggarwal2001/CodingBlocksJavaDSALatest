@@ -10,6 +10,6 @@ public class Q14_Check_Array_Sorted {
         if (index + 1 == numberElement.length) {
             return true;
         }
-        return numberElement[index] < numberElement[index + 1] && checkArraySorted(numberElement, index + 1);
+        return numberElement[index] <= numberElement[index + 1] && checkArraySorted(numberElement, index + 1);
     }
 }

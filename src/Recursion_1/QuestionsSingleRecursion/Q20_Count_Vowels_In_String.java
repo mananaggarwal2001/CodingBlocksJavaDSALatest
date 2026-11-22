@@ -1,9 +1,11 @@
 package Recursion_1.QuestionsSingleRecursion;
 
+import java.util.Locale;
+
 public class Q20_Count_Vowels_In_String {
     static void main() {
         String inputString = "coding";
-        System.out.println(countVowels(inputString));
+        System.out.println(countVowels(inputString.toLowerCase(Locale.ROOT)));
     }
 
     private static int countVowels(String inputString) {
