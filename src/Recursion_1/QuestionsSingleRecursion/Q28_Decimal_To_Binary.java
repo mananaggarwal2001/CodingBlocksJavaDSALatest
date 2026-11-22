@@ -2,7 +2,7 @@ package Recursion_1.QuestionsSingleRecursion;
 
 public class Q28_Decimal_To_Binary {
     static void main() {
-        int decimalNumber = 5;
+        int decimalNumber = 6;
         System.out.println(binaryNumberConversion(decimalNumber, "")); // done with the decimal to binary conversion.
     }
 
@@ -10,7 +10,7 @@ public class Q28_Decimal_To_Binary {
         if (decimalNumber == 0) {
             return ans;
         }
-        ans += decimalNumber % 2;
+        ans = decimalNumber % 2 + ans;
         return binaryNumberConversion(decimalNumber / 2, ans);
     }
 }

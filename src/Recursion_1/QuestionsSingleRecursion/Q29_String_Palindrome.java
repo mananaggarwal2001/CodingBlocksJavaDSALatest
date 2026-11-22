@@ -7,7 +7,7 @@ public class Q29_String_Palindrome {
     }
 
     private static boolean checkPalindromeString(String inputString, int initialIndex, int lastIndex) {
-        if (initialIndex == lastIndex) {
+        if (initialIndex >= lastIndex) {
             return true;
         }
         // this is the example of the head recursion.
