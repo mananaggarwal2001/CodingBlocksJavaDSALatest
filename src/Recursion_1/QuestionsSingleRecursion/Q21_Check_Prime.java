@@ -8,7 +8,7 @@ public class Q21_Check_Prime {
 
     private static boolean checkPrime(int number, int range, int count) {
         if (number < 2) {
-            return true;
+            return false;
         }
         if (range == number) {
             return count == 0;
