@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 123 programs across 21 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 141 programs across 21 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -24,7 +24,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (6)
 19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
-21. [Recursion 1](#recursion-1) (21)
+21. [Recursion 1](#recursion-1) (39)
 
 ## Course Questions Sequence Wise
 
@@ -204,15 +204,33 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 
 #### Assignment: Single Recursion Questions
 
-112. [Print Numbers from 1 to N](src/Recursion_1/QuestionsSingleRecursion/Q1_Print_Numbers_1_N.java)
-113. [Print Numbers from N to 1](src/Recursion_1/QuestionsSingleRecursion/Q2_Print_Numbers_N_1.java)
-114. [Sum of First N Natural Numbers](src/Recursion_1/QuestionsSingleRecursion/Q3_Sum_Of_First_N_Natural_Numbers.java)
-115. [Factorial of N](src/Recursion_1/QuestionsSingleRecursion/Q4_Factorial_Of_N.java)
-116. [Sum of Digits](src/Recursion_1/QuestionsSingleRecursion/Q5_Sum_Of_Digits.java)
-117. [Count Digits](src/Recursion_1/QuestionsSingleRecursion/Q6_Count_Digits.java)
-118. [Product of Digits](src/Recursion_1/QuestionsSingleRecursion/Q7_Products_Of_Digits.java)
-119. [Reverse a Number](src/Recursion_1/QuestionsSingleRecursion/Q8_Reverse_A_Number.java)
-120. [Check Palindrome Number](src/Recursion_1/QuestionsSingleRecursion/Q9_Check_Pallindrome_Number.java)
-121. [Power (a^b)](src/Recursion_1/QuestionsSingleRecursion/Q10_Power_a_b.java)
-122. [Maximum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q11_Maximum_Element_In_Array.java)
-123. [Minimum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q12_Minimum_Element_In_Array.java)
+112. [Q1: Print Numbers from 1 to N](src/Recursion_1/QuestionsSingleRecursion/Q1_Print_Numbers_1_N.java)
+113. [Q2: Print Numbers from N to 1](src/Recursion_1/QuestionsSingleRecursion/Q2_Print_Numbers_N_1.java)
+114. [Q3: Sum of First N Natural Numbers](src/Recursion_1/QuestionsSingleRecursion/Q3_Sum_Of_First_N_Natural_Numbers.java)
+115. [Q4: Factorial of N](src/Recursion_1/QuestionsSingleRecursion/Q4_Factorial_Of_N.java)
+116. [Q5: Sum of Digits](src/Recursion_1/QuestionsSingleRecursion/Q5_Sum_Of_Digits.java)
+117. [Q6: Count Digits](src/Recursion_1/QuestionsSingleRecursion/Q6_Count_Digits.java)
+118. [Q7: Product of Digits](src/Recursion_1/QuestionsSingleRecursion/Q7_Products_Of_Digits.java)
+119. [Q8: Reverse a Number](src/Recursion_1/QuestionsSingleRecursion/Q8_Reverse_A_Number.java)
+120. [Q9: Check Palindrome Number](src/Recursion_1/QuestionsSingleRecursion/Q9_Check_Pallindrome_Number.java)
+121. [Q10: Power (a^b)](src/Recursion_1/QuestionsSingleRecursion/Q10_Power_a_b.java)
+122. [Q11: Maximum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q11_Maximum_Element_In_Array.java)
+123. [Q12: Minimum Element in Array](src/Recursion_1/QuestionsSingleRecursion/Q12_Minimum_Element_In_Array.java)
+124. [Q13: Sum of Array Elements](src/Recursion_1/QuestionsSingleRecursion/Q13_Sum_Of_Array_Elements.java)
+125. [Q14: Check if Array is Sorted](src/Recursion_1/QuestionsSingleRecursion/Q14_Check_Array_Sorted.java)
+126. [Q15: Count Element Occurrences](src/Recursion_1/QuestionsSingleRecursion/Q15_Count_Element_Occurrences.java)
+127. [Q16: First Occurrence in Array](src/Recursion_1/QuestionsSingleRecursion/Q16_First_Occurrence_In_Array.java)
+128. [Q17: Last Occurrence in Array](src/Recursion_1/QuestionsSingleRecursion/Q17_Last_Occurrence_In_Array.java)
+129. [Q18: Print Array Elements](src/Recursion_1/QuestionsSingleRecursion/Q18_Print_Array_Elements.java)
+130. [Q19: Count Even Numbers](src/Recursion_1/QuestionsSingleRecursion/Q19_Count_Even_Numbers.java)
+131. [Q20: Count Vowels in a String](src/Recursion_1/QuestionsSingleRecursion/Q20_Count_Vowels_In_String.java)
+132. [Q21: Check Prime](src/Recursion_1/QuestionsSingleRecursion/Q21_Check_Prime.java)
+133. [Q22: GCD of Two Numbers](src/Recursion_1/QuestionsSingleRecursion/Q22_GCD_Of_Two_Numbers.java)
+134. [Q23: LCM of Two Numbers](src/Recursion_1/QuestionsSingleRecursion/Q23_LCM_Of_Two_Numbers.java)
+135. [Q24: Sum of Even Digits](src/Recursion_1/QuestionsSingleRecursion/Q24_Sum_Of_Even_Digits.java)
+136. [Q25: Remove Zeros from a Number](src/Recursion_1/QuestionsSingleRecursion/Q25_Remove_Zeros_From_Number.java)
+137. [Q26: Count Zeros in a Number](src/Recursion_1/QuestionsSingleRecursion/Q26_Count_Zeros_In_Number.java)
+138. [Q27: Digital Root](src/Recursion_1/QuestionsSingleRecursion/Q27_Digital_Root.java) (in progress)
+139. [Q28: Decimal to Binary](src/Recursion_1/QuestionsSingleRecursion/Q28_Decimal_To_Binary.java)
+140. [Q29: String Palindrome](src/Recursion_1/QuestionsSingleRecursion/Q29_String_Palindrome.java)
+141. [Q30: Length of a String](src/Recursion_1/QuestionsSingleRecursion/Q30_Length_Of_String.java)
