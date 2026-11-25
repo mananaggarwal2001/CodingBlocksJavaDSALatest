@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 168 programs: 108 from the lectures, across 20 topics, and 60 assignment questions. Lecture topics are listed in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 173 programs: 108 from the lectures, across 20 topics, and 65 assignment questions. Lecture topics are listed in the order they were covered in the course.
 
 ## Contents
 
@@ -27,11 +27,12 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 19. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
 20. [Recursion 1](#recursion-1) (9)
 
-**[Assignments](#assignments)** (60 questions)
+**[Assignments](#assignments)** (65 questions)
 
 1. [Assignment 1: Patterns](#assignment-1-patterns) (15)
-2. [Recursion Assignment: Single Recursion Questions](#recursion-assignment-single-recursion-questions) (42)
-3. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
+2. [Assignment 2: Number Systems and Data Types](#assignment-2-number-systems-and-data-types) (5)
+3. [Recursion Assignment: Single Recursion Questions](#recursion-assignment-single-recursion-questions) (42)
+4. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 
 ## Lecture Topics
 
@@ -222,6 +223,14 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 - [Q13: Pascal's Triangle](src/Assignments/Assignment_1_Patterns/Q13_Pascal_Triangle.java)
 - [Q14: Inverted Hour Glass](src/Assignments/Assignment_1_Patterns/Q14_Pattern_Inverted_Hour_Glass.java)
 - [Q15: Hour Glass](src/Assignments/Assignment_1_Patterns/Q15_Pattern_Hour_Glass.java)
+
+### Assignment 2: Number Systems and Data Types
+
+- [Q1: Sum of Odd and Even Places](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q1_Sum_Of_Odd_Places_And_Even_Places.java)
+- [Q2: Count Digits](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q2_Count_Digits.java)
+- [Q3: Print Reverse](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q3_Print_Reverse.java)
+- [Q4: Binary to Decimal](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q4_Binary_To_Decimal.java)
+- [Q5: LCM](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q5_LCM.java)
 
 ### Recursion Assignment: Single Recursion Questions
 
