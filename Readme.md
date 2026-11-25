@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 160 programs across 22 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 168 programs across 22 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -25,7 +25,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
 21. [Recursion 1](#recursion-1) (51)
-22. [Assignment 1: Patterns](#assignment-1-patterns) (7)
+22. [Assignment 1: Patterns](#assignment-1-patterns) (15)
 
 ## Course Questions Sequence Wise
 
@@ -257,3 +257,11 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 158. [Q5: Hollow Rhombus](src/Assignments/Assignment_1/Q5_Hollow_Rhombus_Pattern.java)
 159. [Q6: Number Rhombus](src/Assignments/Assignment_1/Q6_Pattern_Rhombus.java)
 160. [Q7: Pattern with Zeros](src/Assignments/Assignment_1/Q7_Pattern_With_Zeros.java)
+161. [Q8: Fibonacci Pattern](src/Assignments/Assignment_1/Q8_Fibonacci_Pattern.java)
+162. [Q9: Pattern Mountain](src/Assignments/Assignment_1/Q9_Pattern_Mountain.java)
+163. [Q10: Pattern Magic](src/Assignments/Assignment_1/Q10_Pattern_Magic.java)
+164. [Q11: R4 Pattern](src/Assignments/Assignment_1/Q11_R4_Pattern.java)
+165. [Q12: Double Sided Arrow](src/Assignments/Assignment_1/Q12_Pattern_Double_Sided_Arrow.java)
+166. [Q13: Pascal's Triangle](src/Assignments/Assignment_1/Q13_Pascal_Triangle.java)
+167. [Q14: Inverted Hour Glass](src/Assignments/Assignment_1/Q14_Pattern_Inverted_Hour_Glass.java)
+168. [Q15: Hour Glass](src/Assignments/Assignment_1/Q15_Pattern_Hour_Glass.java)
