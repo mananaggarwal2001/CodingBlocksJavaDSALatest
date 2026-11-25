@@ -21,7 +21,6 @@ public class Q7_Pattern_With_Zeros {
                 }
                 initalstar++;
             }
-
             row++;
             System.out.println();
         }
