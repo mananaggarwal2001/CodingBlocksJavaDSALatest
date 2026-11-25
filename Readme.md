@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 153 programs across 21 topics, listed below in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 160 programs across 22 topics, listed below in the order they were covered in the course.
 
 ## Topics
 
@@ -25,6 +25,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 19. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 20. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
 21. [Recursion 1](#recursion-1) (51)
+22. [Assignment 1: Patterns](#assignment-1-patterns) (7)
 
 ## Course Questions Sequence Wise
 
@@ -246,3 +247,13 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 151. [Q40: Remove Character x](src/Recursion_1/QuestionsSingleRecursion/Q40_Remove_Character_x.java)
 152. [Q41: Sum of Alternate Digits](src/Recursion_1/QuestionsSingleRecursion/Q41_Sum_Of_Alternate_Digits.java)
 153. [Q42: Check String Contains Only Digits](src/Recursion_1/QuestionsSingleRecursion/Q42_Check_String_Contain_Only_Digits.java)
+
+### Assignment 1: Patterns
+
+154. [Q1: Hollow Diamond Pattern](src/Assignments/Assignment_1/Q1_Hollow_Diamond_Pattern_6.java)
+155. [Q2: Pattern Triangle](src/Assignments/Assignment_1/Q2_Pattern_Triangle.java)
+156. [Q3: Mirror Star Pattern](src/Assignments/Assignment_1/Q3_Mirror_Star_Pattern_5.java)
+157. [Q4: Number Ladder](src/Assignments/Assignment_1/Q4_Pattern_Number_Ladder.java)
+158. [Q5: Hollow Rhombus](src/Assignments/Assignment_1/Q5_Hollow_Rhombus_Pattern.java)
+159. [Q6: Number Rhombus](src/Assignments/Assignment_1/Q6_Pattern_Rhombus.java)
+160. [Q7: Pattern with Zeros](src/Assignments/Assignment_1/Q7_Pattern_With_Zeros.java)
