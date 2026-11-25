@@ -207,21 +207,21 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 
 ### Assignment 1: Patterns
 
-- [Q1: Hollow Diamond Pattern](src/Assignments/Assignment_1/Q1_Hollow_Diamond_Pattern_6.java)
-- [Q2: Pattern Triangle](src/Assignments/Assignment_1/Q2_Pattern_Triangle.java)
-- [Q3: Mirror Star Pattern](src/Assignments/Assignment_1/Q3_Mirror_Star_Pattern_5.java)
-- [Q4: Number Ladder](src/Assignments/Assignment_1/Q4_Pattern_Number_Ladder.java)
-- [Q5: Hollow Rhombus](src/Assignments/Assignment_1/Q5_Hollow_Rhombus_Pattern.java)
-- [Q6: Number Rhombus](src/Assignments/Assignment_1/Q6_Pattern_Rhombus.java)
-- [Q7: Pattern with Zeros](src/Assignments/Assignment_1/Q7_Pattern_With_Zeros.java)
-- [Q8: Fibonacci Pattern](src/Assignments/Assignment_1/Q8_Fibonacci_Pattern.java)
-- [Q9: Pattern Mountain](src/Assignments/Assignment_1/Q9_Pattern_Mountain.java)
-- [Q10: Pattern Magic](src/Assignments/Assignment_1/Q10_Pattern_Magic.java)
-- [Q11: R4 Pattern](src/Assignments/Assignment_1/Q11_R4_Pattern.java)
-- [Q12: Double Sided Arrow](src/Assignments/Assignment_1/Q12_Pattern_Double_Sided_Arrow.java)
-- [Q13: Pascal's Triangle](src/Assignments/Assignment_1/Q13_Pascal_Triangle.java)
-- [Q14: Inverted Hour Glass](src/Assignments/Assignment_1/Q14_Pattern_Inverted_Hour_Glass.java)
-- [Q15: Hour Glass](src/Assignments/Assignment_1/Q15_Pattern_Hour_Glass.java)
+- [Q1: Hollow Diamond Pattern](src/Assignments/Assignment_1_Patterns/Q1_Hollow_Diamond_Pattern_6.java)
+- [Q2: Pattern Triangle](src/Assignments/Assignment_1_Patterns/Q2_Pattern_Triangle.java)
+- [Q3: Mirror Star Pattern](src/Assignments/Assignment_1_Patterns/Q3_Mirror_Star_Pattern_5.java)
+- [Q4: Number Ladder](src/Assignments/Assignment_1_Patterns/Q4_Pattern_Number_Ladder.java)
+- [Q5: Hollow Rhombus](src/Assignments/Assignment_1_Patterns/Q5_Hollow_Rhombus_Pattern.java)
+- [Q6: Number Rhombus](src/Assignments/Assignment_1_Patterns/Q6_Pattern_Rhombus.java)
+- [Q7: Pattern with Zeros](src/Assignments/Assignment_1_Patterns/Q7_Pattern_With_Zeros.java)
+- [Q8: Fibonacci Pattern](src/Assignments/Assignment_1_Patterns/Q8_Fibonacci_Pattern.java)
+- [Q9: Pattern Mountain](src/Assignments/Assignment_1_Patterns/Q9_Pattern_Mountain.java)
+- [Q10: Pattern Magic](src/Assignments/Assignment_1_Patterns/Q10_Pattern_Magic.java)
+- [Q11: R4 Pattern](src/Assignments/Assignment_1_Patterns/Q11_R4_Pattern.java)
+- [Q12: Double Sided Arrow](src/Assignments/Assignment_1_Patterns/Q12_Pattern_Double_Sided_Arrow.java)
+- [Q13: Pascal's Triangle](src/Assignments/Assignment_1_Patterns/Q13_Pascal_Triangle.java)
+- [Q14: Inverted Hour Glass](src/Assignments/Assignment_1_Patterns/Q14_Pattern_Inverted_Hour_Glass.java)
+- [Q15: Hour Glass](src/Assignments/Assignment_1_Patterns/Q15_Pattern_Hour_Glass.java)
 
 ### Recursion Assignment: Single Recursion Questions
 
