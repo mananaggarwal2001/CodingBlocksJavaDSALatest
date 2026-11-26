@@ -5,6 +5,7 @@ public class Recursion_Introduction_Factorial {
         // this is the function calling itself.
         // result use karke original problem ke answer ko solve karenge aur answer laayenge
         // Base case ka matlab hota hain ki hume recursion ko kahan rokhna hain.
+        // Most simeple thing in the recursion is jitni choices utni calls lagegi recursion me.
         int n = 5;
         System.out.println(findFactorial(n));
     }
