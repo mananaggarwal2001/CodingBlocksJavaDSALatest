@@ -1,10 +1,10 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 173 programs: 108 from the lectures, across 20 topics, and 65 assignment questions. Lecture topics are listed in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 176 programs: 111 from the lectures, across 21 topics, and 65 assignment questions. Lecture topics are listed in the order they were covered in the course.
 
 ## Contents
 
-**[Lecture Topics](#lecture-topics)** (108 programs)
+**[Lecture Topics](#lecture-topics)** (111 programs)
 
 1. [Lecture 1: Java Fundamentals](#lecture-1-java-fundamentals) (9)
 2. [Lecture 2: Loops and Patterns](#lecture-2-loops-and-patterns) (9)
@@ -26,6 +26,7 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 18. [String Questions and StringBuilder](#string-questions-and-stringbuilder) (6)
 19. [Wrapper Classes and ArrayLists](#wrapper-classes-and-arraylists) (3)
 20. [Recursion 1](#recursion-1) (9)
+21. [Recursion 2](#recursion-2) (3)
 
 **[Assignments](#assignments)** (65 questions)
 
@@ -203,6 +204,12 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 106. [Check if Array is Sorted](src/Recursion_1/Array_IsSorted.java)
 107. [First Occurrence of Item in Array](src/Recursion_1/Item_First_Occurrence_In_Array.java)
 108. [Count Vowels](src/Recursion_1/Count_Vowels.java)
+
+### Recursion 2
+
+109. [N Coin Problem (Heads and Tails)](src/Recursion_2/N_Coin_Problem.java)
+110. [Nth Fibonacci Number](src/Recursion_2/Nth_Fibonacci_Number.java)
+111. [Printing Subsequences](src/Recursion_2/SubSequence_Printing.java)
 
 ## Assignments
 
