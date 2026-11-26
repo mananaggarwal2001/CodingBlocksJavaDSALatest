@@ -8,7 +8,6 @@ public class Q5_LCM {
         int inputNumber1 = sc.nextInt();
         int inputNumber2 = sc.nextInt();
         findLCM(inputNumber1, inputNumber2);
-
     }
 
     private static void findLCM(int inputNumber1, int inputNumber2) {
