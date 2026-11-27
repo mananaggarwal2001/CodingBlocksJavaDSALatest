@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 176 programs: 111 from the lectures, across 21 topics, and 65 assignment questions. Lecture topics are listed in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 181 programs: 111 from the lectures, across 21 topics, and 70 assignment questions. Lecture topics are listed in the order they were covered in the course.
 
 ## Contents
 
@@ -28,10 +28,10 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 20. [Recursion 1](#recursion-1) (9)
 21. [Recursion 2](#recursion-2) (3)
 
-**[Assignments](#assignments)** (65 questions)
+**[Assignments](#assignments)** (70 questions)
 
 1. [Assignment 1: Patterns](#assignment-1-patterns) (15)
-2. [Assignment 2: Number Systems and Data Types](#assignment-2-number-systems-and-data-types) (5)
+2. [Assignment 2: Number Systems and Data Types](#assignment-2-number-systems-and-data-types) (10)
 3. [Recursion Assignment: Single Recursion Questions](#recursion-assignment-single-recursion-questions) (42)
 4. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 
@@ -238,6 +238,11 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 - [Q3: Print Reverse](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q3_Print_Reverse.java)
 - [Q4: Binary to Decimal](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q4_Binary_To_Decimal.java)
 - [Q5: LCM](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q5_LCM.java)
+- [Q6: Nth Fibonacci (Hard)](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q6_Nth_Fibonacci_Hard.java)
+- [Q7: Fahrenheit to Celsius](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q7_Conversion_Fahrenheit_To_Celsius.java)
+- [Q8: Inverse of a Number](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q8_Inverse_Of_Number.java)
+- [Q9: Check Prime](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q9_Check_Prime.java)
+- [Q10: GCD](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q10_GCD.java)
 
 ### Recursion Assignment: Single Recursion Questions
 
