@@ -1,6 +1,6 @@
 # Coding Blocks Java DSA
 
-My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 181 programs: 111 from the lectures, across 21 topics, and 70 assignment questions. Lecture topics are listed in the order they were covered in the course.
+My solutions to the Coding Blocks Java DSA course, written in Java. The repository has 184 programs: 111 from the lectures, across 21 topics, and 73 assignment questions. Lecture topics are listed in the order they were covered in the course.
 
 ## Contents
 
@@ -28,10 +28,10 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 20. [Recursion 1](#recursion-1) (9)
 21. [Recursion 2](#recursion-2) (3)
 
-**[Assignments](#assignments)** (70 questions)
+**[Assignments](#assignments)** (73 questions)
 
 1. [Assignment 1: Patterns](#assignment-1-patterns) (15)
-2. [Assignment 2: Number Systems and Data Types](#assignment-2-number-systems-and-data-types) (10)
+2. [Assignment 2: Number Systems and Data Types](#assignment-2-number-systems-and-data-types) (13)
 3. [Recursion Assignment: Single Recursion Questions](#recursion-assignment-single-recursion-questions) (42)
 4. [Assignment and LeetCode Doubt Questions](#assignment-and-leetcode-doubt-questions) (3)
 
@@ -243,6 +243,9 @@ My solutions to the Coding Blocks Java DSA course, written in Java. The reposito
 - [Q8: Inverse of a Number](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q8_Inverse_Of_Number.java)
 - [Q9: Check Prime](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q9_Check_Prime.java)
 - [Q10: GCD](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q10_GCD.java)
+- [Q11: Chewbacca and Number](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q11_Chewbacca_And_Number.java)
+- [Q12: Replace Them All](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q12_Replace_Them_All.java)
+- [Q13: Print Series](src/Assignments/Assignment_2_Number_Systems_And_Data_Types/Q13_Print_Series.java)
 
 ### Recursion Assignment: Single Recursion Questions
 
