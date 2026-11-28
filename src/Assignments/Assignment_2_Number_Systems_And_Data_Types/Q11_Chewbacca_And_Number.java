@@ -9,23 +9,24 @@ public class Q11_Chewbacca_And_Number {
         System.out.println(chewbaccaAndNumber(inputString));
     }
 
-    private static long chewbaccaAndNumber(String inputNumber) {
+    private static String chewbaccaAndNumber(String inputNumber) {
+        // Skip leading zeros, but keep at least one digit for showing the answer as if the edge case is 0.
+        int start = 0;
+        while (start < inputNumber.length() - 1 && inputNumber.charAt(start) == '0') {
+            start++;
+        }
+        // Now after removing the leading 0's then the final answer will start for this question.
+        inputNumber = inputNumber.substring(start);
         StringBuilder changedNumber = new StringBuilder();
-        // leading number can't start with 0 as the value will become octal value in the computer science terms.
-        // if the leading number starts with 9 then the first number always start with 9
-        // isme 0 ka 0 hi rahega but agar 9 aa jaye toh first one 9 hi rahega baaki minimum aayega number.
         for (int i = 0; i < inputNumber.length(); i++) {
-            int changeDigit = inputNumber.charAt(i) - '0';
-            if (changeDigit == 0 && i == 0) {
+            int digit = inputNumber.charAt(i) - '0';
+            int inverted = 9 - digit;
+            if (i == 0 && digit == 9) {
                 changedNumber.append(9);
-                continue;
-            }
-            if ((9 - changeDigit) < (inputNumber.charAt(i) - '0')) {
-                changedNumber.append(9 - changeDigit);
             } else {
-                changedNumber.append(inputNumber.charAt(i));
+                changedNumber.append(Math.min(digit, inverted));
             }
         }
-        return Long.parseLong(changedNumber.toString());
+        return changedNumber.toString();
     }
 }
